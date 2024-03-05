@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+}
+
+p {
+    /* J'en profite pour
+ajouter un commentaire
+sur plusieurs lignes */
+    color: blue;
+}
+
+.c1 {
+    color: #663399;
+}
+
+.c2 {
+    font-size: 30px;
+}
