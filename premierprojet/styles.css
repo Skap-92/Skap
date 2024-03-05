@@ -1,18 +1,22 @@
 p {
     font-family:Arial;
- }
+    font-size: 2em;
+    font-style: italic;
+}
 
  h1{
     font-family: "Lobster", sans-serif;
- }
-
- img {
-    width: 300px;
-    height: 185px;
-    }
-body{
-    font-size: 15px;
+    font-size: 4m;
+    text-align: center;
 }
+
+h2{
+    font-size: 3m;
+}
+
+img {
+    width: 300px;
+    height: 185px;}
 
 .c1{
     color: black;
@@ -20,4 +24,5 @@ body{
 
 .c2{
     color: rgb(226, 43, 43);
+    font-weight: 700;
 }
