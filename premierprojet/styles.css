@@ -1,3 +1,23 @@
-h1 {
-    color: red;
+p {
+    font-family:Arial;
  }
+
+ h1{
+    font-family: "Lobster", sans-serif;
+ }
+
+ img {
+    width: 300px;
+    height: 185px;
+    }
+body{
+    font-size: 15px;
+}
+
+.c1{
+    color: black;
+}
+
+.c2{
+    color: rgb(226, 43, 43);
+}
